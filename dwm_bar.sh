@@ -59,7 +59,7 @@ parallelize &
 while true
 do
     # Append results of each func one by one to the upperbar string
-    upperbar=""
+    upperbar=" "
     #upperbar="$upperbar$(dwm_alarm)"
     #upperbar="$upperbar$(dwm_alsa)"
     #upperbar="$upperbar$(dwm_backlight)"
